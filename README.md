@@ -1,6 +1,6 @@
 GridFTP logs we used in the paper "Cross-geography Scientific Data Transfer Trends and User Behavior Patterns"
 
-Data field 
+Data fields
 
 | Name            | Unit   | Description                                 |
 |-----------------|--------|---------------------------------------------|
@@ -17,4 +17,4 @@ Data field
 | start_time      | second | start time of transfer                      |
 | trans_type      | N/A    | transfer command: RETR, STOR, LIST, etc     |
 
-Since the dataset is big, we are working to make it available online via other sharing service, e.g., Globus data sharing. All logs in 2017 are expected to be online before mid-Feb, 2018. Contact me if you cannot wait.
+All logs in 2017 are expected to be online around mid-February, 2018. Contact me if you cannot wait. Since the dataset is big, we are working to make it available online via other sharing service, e.g., [Data Sharing With Globus](https://www.globus.org/data-sharing). 
