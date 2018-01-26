@@ -1,4 +1,4 @@
-GridFTP logs we used in the paper "Cross-geography Scientific Data Transfer Trends and User Behavior Patterns"
+Sample of GridFTP logs we used in the paper "Cross-geography Scientific Data Transfer Trends and User Behavior Patterns"
 
 Data fields
 
