@@ -17,4 +17,4 @@ Data field
 | start_time      | second | start time of transfer                      |
 | trans_type      | N/A    | transfer command: RETR, STOR, LIST, etc     |
 
-Since the dataset is big, we are working to make it available online via other sharing service. They will be online before mid-Feb, 2018. Contact me if you need to data right now.
+Since the dataset is big, we are working to make it available online via other sharing service, e.g., Globus data sharing. All logs in 2017 are expected to be online before mid-Feb, 2018. Contact me if you cannot wait.
